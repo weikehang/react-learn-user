@@ -11,7 +11,7 @@ export default class Redirect extends React.Component {
         }
     }
 
-    render() {
+    render() {git
         //不渲染
         return null;
     }

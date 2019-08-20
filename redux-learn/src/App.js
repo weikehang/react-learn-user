@@ -11,15 +11,7 @@ function App() {
 		<p>
 		  Edit 我自己天界了东西 看看加了没有
 		</p>
-		<a
-		  className="App-link"
-		  href="https://reactjs.org"
-		  target="_blank"
-		  rel="noopener noreferrer"
-		>
-		  Learn React 我是另一个新添加的东西发广告
-		</a>
-		  dev
+		更改之前的操作了
 	  </header>
 	</div>
   );

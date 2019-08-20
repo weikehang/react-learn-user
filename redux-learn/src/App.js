@@ -9,7 +9,7 @@ function App() {
 	  <header className="App-header">
 		<img src={logo} className="App-logo" alt="logo" />
 		<p>
-		  Edit 我自己天界了东西的
+		  Edit 我自己天界了东西 看看加了没有
 		</p>
 		<a
 		  className="App-link"
@@ -17,7 +17,7 @@ function App() {
 		  target="_blank"
 		  rel="noopener noreferrer"
 		>
-		  Learn React 我是另一个新添加的东西发广告  
+		  Learn React 我是另一个新添加的东西发广告
 		</a>
 	  </header>
 	</div>

@@ -17,8 +17,9 @@ function App() {
 		  target="_blank"
 		  rel="noopener noreferrer"
 		>
-		  Learn React 我是另一个新添加的东西发广告  
+		  Learn React 我是另一个新添加的东西发广告
 		</a>
+		  dev
 	  </header>
 	</div>
   );

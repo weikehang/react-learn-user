@@ -13,6 +13,9 @@ function App() {
 		</p>
 		更改之前的操作了
 	  </header>
+      <nav>
+        我自己填了的nav
+      </nav>
 	</div>
   );
 }

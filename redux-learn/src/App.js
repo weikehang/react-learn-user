@@ -21,6 +21,9 @@ function App() {
 		</a>
 		  dev
 	  </header>
+      <nav>
+        我自己填了的nav
+      </nav>
 	</div>
   );
 }
